@@ -1,0 +1,698 @@
+﻿doc_id,username,acteur_type,orientation_politique,orientation_politique_macro,create_time,topic_rerun,topic_june,statut,famille,cadrage,cadrage_id
+0,zemmour_eric,politicien,Reconquête,Politicien-Extreme-Droite,1771861158,-1,-1.0,outlier,,,
+1,zemmour_eric,politicien,Reconquête,Politicien-Extreme-Droite,1771793577,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+2,zemmour_eric,politicien,Reconquête,Politicien-Extreme-Droite,1771493681,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+3,zemmour_eric,politicien,Reconquête,Politicien-Extreme-Droite,1771180439,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+4,sarah_knafo,politicien,Reconquête,Politicien-Extreme-Droite,1771247973,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+5,sarah_knafo,politicien,Reconquête,Politicien-Extreme-Droite,1773225790,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+6,rnational_off,politicien,RN,Politicien-Extreme-Droite,1772219243,1,1.0,exclu,,,
+7,rnational_off,politicien,RN,Politicien-Extreme-Droite,1771662600,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+8,jordanbardella,politicien,RN,Politicien-Extreme-Droite,1771527094,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+9,sebchenu,politicien,RN,Politicien-Extreme-Droite,1772022636,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+10,sebchenu,politicien,RN,Politicien-Extreme-Droite,1771434538,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+11,jphtanguy,politicien,RN,Politicien-Extreme-Droite,1771406660,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+12,jphtanguy,politicien,RN,Politicien-Extreme-Droite,1771233430,-1,-1.0,outlier,,,
+13,franckallisio,politicien,RN,Politicien-Extreme-Droite,1774638604,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+14,fabriceleggeri,politicien,RN,Politicien-Extreme-Droite,1772116003,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+15,fabriceleggeri,politicien,RN,Politicien-Extreme-Droite,1774003377,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+16,kevinmauvieux,politicien,RN,Politicien-Extreme-Droite,1771260552,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+17,lesrepublicains,politicien,LR,Politicien-Droite,1771434561,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+18,laurentwauquiez_,politicien,LR,Politicien-Droite,1771414185,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+19,brunoretailleauoff,politicien,LR,Politicien-Droite,1772051305,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+20,brunoretailleauoff,politicien,LR,Politicien-Droite,1771355276,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+21,brunoretailleauoff,politicien,LR,Politicien-Droite,1775322355,-1,-1.0,outlier,,,
+22,fxbellamy,politicien,LR,Politicien-Droite,1772124923,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+23,fxbellamy,politicien,LR,Politicien-Droite,1771861459,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+24,fxbellamy,politicien,LR,Politicien-Droite,1771428282,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+25,fxbellamy,politicien,LR,Politicien-Droite,1773331175,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+26,rachida_dati,politicien,LR,Politicien-Droite,1771413933,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+27,horizonsleparti,politicien,Horizons,Politicien-Droite,1771429255,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+28,gdarmanin.officiel,politicien,Renaissance,Politicien-Droite,1771494403,-1,-1.0,outlier,,,
+29,fhollandeofficiel,politicien,PS,Politicien-Gauche,1771436851,1,1.0,exclu,,,
+30,fhollandeofficiel,politicien,PS,Politicien-Gauche,1771349871,-1,-1.0,outlier,,,
+31,lesecologistes,politicien,LE,Politicien-Gauche,1771854138,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+32,marinetondelier,politicien,LE,Politicien-Gauche,1771682091,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+33,sandrousseau,politicien,LE,Politicien-Gauche,1772011473,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+34,sandrousseau,politicien,LE,Politicien-Gauche,1772007137,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+35,sandrousseau,politicien,LE,Politicien-Gauche,1771323913,23,,exclu,,,
+36,sandrousseau,politicien,LE,Politicien-Gauche,1771237444,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+37,franceinsoumisean,politicien,LFI,Politicien-Gauche-Radicale,1771944007,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+38,franceinsoumisean,politicien,LFI,Politicien-Gauche-Radicale,1771345623,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+39,franceinsoumisean,politicien,LFI,Politicien-Gauche-Radicale,1775574955,3,,exclu,,,
+40,franceinsoumisean,politicien,LFI,Politicien-Gauche-Radicale,1776265191,5,6.0,exclu,,,
+41,jlmelenchon,politicien,LFI,Politicien-Gauche-Radicale,1771180073,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+42,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773084665,-1,-1.0,outlier,,,
+43,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773061713,1,1.0,exclu,,,
+44,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1772283383,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+45,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1774894672,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+46,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773870196,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+47,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773751490,16,17.0,exclu,,,
+48,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773610501,1,1.0,exclu,,,
+49,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773604404,1,1.0,exclu,,,
+50,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773447775,1,1.0,exclu,,,
+51,manonaubryfr,politicien,LFI,Politicien-Gauche-Radicale,1773337962,18,19.0,exclu,,,
+52,rima.has,politicien,LFI,Politicien-Gauche-Radicale,1774277151,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+53,rima.has,politicien,LFI,Politicien-Gauche-Radicale,1773257217,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+54,mathildepanot,politicien,LFI,Politicien-Gauche-Radicale,1772833206,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+55,mathildepanot,politicien,LFI,Politicien-Gauche-Radicale,1772553080,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+56,mathildepanot,politicien,LFI,Politicien-Gauche-Radicale,1771955182,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+57,mathildepanot,politicien,LFI,Politicien-Gauche-Radicale,1771613526,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+58,mathildepanot,politicien,LFI,Politicien-Gauche-Radicale,1773685230,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+59,manuelbompard,politicien,LFI,Politicien-Gauche-Radicale,1772116173,-1,-1.0,outlier,,,
+60,manuelbompard,politicien,LFI,Politicien-Gauche-Radicale,1772115881,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+61,manuelbompard,politicien,LFI,Politicien-Gauche-Radicale,1773661107,1,1.0,exclu,,,
+62,guetteclemence,politicien,LFI,Politicien-Gauche-Radicale,1771950099,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+63,guetteclemence,politicien,LFI,Politicien-Gauche-Radicale,1773606213,1,1.0,exclu,,,
+64,guetteclemence,politicien,LFI,Politicien-Gauche-Radicale,1775810457,23,,exclu,,,
+65,francois_ruffin,politicien,LFI,Politicien-Gauche-Radicale,1772110188,-1,-1.0,outlier,,,
+66,clementine_autain,politicien,LFI,Politicien-Gauche-Radicale,1770911098,3,,exclu,,,
+67,louisboyard,politicien,LFI,Politicien-Gauche-Radicale,1771442487,-1,-1.0,outlier,,,
+68,sebastiendelogu,politicien,LFI,Politicien-Gauche-Radicale,1773748401,16,17.0,exclu,,,
+69,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1772051726,-1,-1.0,outlier,,,
+70,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771872300,-1,-1.0,outlier,,,
+71,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771853230,-1,-1.0,outlier,,,
+72,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771758540,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+73,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771410058,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+74,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771402720,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+75,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771356047,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+76,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1771354124,-1,-1.0,outlier,,,
+77,alma_dufour,politicien,LFI,Politicien-Gauche-Radicale,1773795117,16,17.0,exclu,,,
+78,alexis_corbiere,politicien,LFI,Politicien-Gauche-Radicale,1771250366,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+79,deputee_obono,politicien,LFI,Politicien-Gauche-Radicale,1771707161,5,6.0,exclu,,,
+80,deputee_obono,politicien,LFI,Politicien-Gauche-Radicale,1774637971,-1,-1.0,outlier,,,
+81,deputee_obono,politicien,LFI,Politicien-Gauche-Radicale,1774364103,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+82,deputee_obono,politicien,LFI,Politicien-Gauche-Radicale,1773661838,1,1.0,exclu,,,
+83,eric.coquerel,politicien,LFI,Politicien-Gauche-Radicale,1772028177,-1,-1.0,outlier,,,
+84,eric.coquerel,politicien,LFI,Politicien-Gauche-Radicale,1771327806,-1,-1.0,outlier,,,
+85,eric.coquerel,politicien,LFI,Politicien-Gauche-Radicale,1773910689,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+86,eric.coquerel,politicien,LFI,Politicien-Gauche-Radicale,1773670730,1,1.0,exclu,,,
+87,eric.coquerel,politicien,LFI,Politicien-Gauche-Radicale,1773301100,1,1.0,exclu,,,
+88,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1773156159,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+89,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1771780757,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+90,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1771577183,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+91,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1773950770,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+92,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1773422014,1,1.0,exclu,,,
+93,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1776194142,5,6.0,exclu,,,
+94,thomas_portes,politicien,LFI,Politicien-Gauche-Radicale,1775908211,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+95,aleaument,politicien,LFI,Politicien-Gauche-Radicale,1771609573,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+96,aleaument,politicien,LFI,Politicien-Gauche-Radicale,1771437204,-1,-1.0,outlier,,,
+97,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1772471672,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+98,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1772121624,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+99,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1771415122,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+100,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1771365433,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+101,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1771316930,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+102,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1771262214,-1,-1.0,outlier,,,
+103,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1775144515,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+104,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1773754628,1,1.0,exclu,,,
+105,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1773413188,1,1.0,exclu,,,
+106,paulvannier,politicien,LFI,Politicien-Gauche-Radicale,1773322152,1,1.0,exclu,,,
+107,cmbilongo,politicien,LFI,Politicien-Gauche-Radicale,1772234840,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+108,damien.maudet,politicien,LFI,Politicien-Gauche-Radicale,1772624625,-1,-1.0,outlier,,,
+109,particommuniste,politicien,PCF,Politicien-Gauche-Radicale,1772113943,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+110,npa.anticapitaliste,politicien,NPA,Politicien-Gauche-Radicale,1772380536,18,19.0,exclu,,,
+111,npa.anticapitaliste,politicien,NPA,Politicien-Gauche-Radicale,1775501203,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+112,nathaliearthaud,politicien,LO,Politicien-Gauche-Radicale,1771876240,-1,-1.0,outlier,,,
+113,nathaliearthaud,politicien,LO,Politicien-Gauche-Radicale,1771574455,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+114,dominiquedevillepin,politicien,LFH,Politicien-Gauche,1774386039,3,,exclu,,,
+115,dominiquedevillepin,politicien,LFH,Politicien-Gauche,1773598457,3,,exclu,,,
+116,dominiquedevillepin,politicien,LFH,Politicien-Gauche,1773342684,1,1.0,exclu,,,
+117,dupontaignannicolas,politicien,RN,Politicien-Extreme-Droite,1772128665,-1,-1.0,outlier,,,
+118,dupontaignannicolas,politicien,RN,Politicien-Extreme-Droite,1771519008,-1,-1.0,outlier,,,
+119,dupontaignannicolas,politicien,RN,Politicien-Extreme-Droite,1771264550,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+120,florianphilippot,politicien,RN,Politicien-Extreme-Droite,1771177766,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+121,marion_marechal,politicien,Reconquête,Politicien-Extreme-Droite,1771495251,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+122,marion_marechal,politicien,Reconquête,Politicien-Extreme-Droite,1771098120,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+123,marion_marechal,politicien,Reconquête,Politicien-Extreme-Droite,1771087701,-1,-1.0,outlier,,,
+124,marion_marechal,politicien,Reconquête,Politicien-Extreme-Droite,1775412537,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+125,marion_marechal,politicien,Reconquête,Politicien-Extreme-Droite,1773307985,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+126,aymeric.caron,politicien,LE,Politicien-Gauche,1773322794,1,1.0,exclu,,,
+127,lhumanitefr,media,Media-Gauche,Media-Gauche,1773158413,-1,-1.0,outlier,,,
+128,lhumanitefr,media,Media-Gauche,Media-Gauche,1772734710,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+129,lhumanitefr,media,Media-Gauche,Media-Gauche,1772352025,-1,-1.0,outlier,,,
+130,lhumanitefr,media,Media-Gauche,Media-Gauche,1772280017,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+131,lhumanitefr,media,Media-Gauche,Media-Gauche,1772211637,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+132,lhumanitefr,media,Media-Gauche,Media-Gauche,1772112582,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+133,lhumanitefr,media,Media-Gauche,Media-Gauche,1772038821,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+134,lhumanitefr,media,Media-Gauche,Media-Gauche,1772025161,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+135,lhumanitefr,media,Media-Gauche,Media-Gauche,1772015663,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+136,lhumanitefr,media,Media-Gauche,Media-Gauche,1771952694,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+137,lhumanitefr,media,Media-Gauche,Media-Gauche,1771848270,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+138,lhumanitefr,media,Media-Gauche,Media-Gauche,1771603215,-1,-1.0,outlier,,,
+139,lhumanitefr,media,Media-Gauche,Media-Gauche,1771341488,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+140,lhumanitefr,media,Media-Gauche,Media-Gauche,1771257282,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+141,lhumanitefr,media,Media-Gauche,Media-Gauche,1775469621,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+142,lhumanitefr,media,Media-Gauche,Media-Gauche,1773670616,-1,-1.0,outlier,,,
+143,lhumanitefr,media,Media-Gauche,Media-Gauche,1773496812,18,19.0,exclu,,,
+144,lemediatv,media,Media-Gauche,Media-Gauche,1773136800,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+145,lemediatv,media,Media-Gauche,Media-Gauche,1773087915,18,19.0,exclu,,,
+146,lemediatv,media,Media-Gauche,Media-Gauche,1772928402,18,19.0,exclu,,,
+147,lemediatv,media,Media-Gauche,Media-Gauche,1772895600,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+148,lemediatv,media,Media-Gauche,Media-Gauche,1772733269,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+149,lemediatv,media,Media-Gauche,Media-Gauche,1772377200,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+150,lemediatv,media,Media-Gauche,Media-Gauche,1772290800,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+151,lemediatv,media,Media-Gauche,Media-Gauche,1772021725,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+152,lemediatv,media,Media-Gauche,Media-Gauche,1771959116,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+153,lemediatv,media,Media-Gauche,Media-Gauche,1771870985,-1,-1.0,outlier,,,
+154,lemediatv,media,Media-Gauche,Media-Gauche,1771779600,-1,-1.0,outlier,,,
+155,lemediatv,media,Media-Gauche,Media-Gauche,1771617600,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+156,lemediatv,media,Media-Gauche,Media-Gauche,1771593580,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+157,lemediatv,media,Media-Gauche,Media-Gauche,1771503014,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+158,lemediatv,media,Media-Gauche,Media-Gauche,1771439120,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+159,lemediatv,media,Media-Gauche,Media-Gauche,1771352802,-1,-1.0,outlier,,,
+160,lemediatv,media,Media-Gauche,Media-Gauche,1771344658,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+161,lemediatv,media,Media-Gauche,Media-Gauche,1774466100,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+162,lemediatv,media,Media-Gauche,Media-Gauche,1776502800,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+163,lemediatv,media,Media-Gauche,Media-Gauche,1775898000,-1,-1.0,outlier,,,
+164,mediapartfr,media,Media-Gauche,Media-Gauche,1774093807,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+165,mediapartfr,media,Media-Gauche,Media-Gauche,1773403115,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+166,blast_officiel,media,Media-Gauche,Media-Gauche,1771948551,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+167,blast_officiel,media,Media-Gauche,Media-Gauche,1771936662,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+168,blast_officiel,media,Media-Gauche,Media-Gauche,1774006221,-1,-1.0,outlier,,,
+169,blast_officiel,media,Media-Gauche,Media-Gauche,1773820800,-1,-1.0,outlier,,,
+170,blast_officiel,media,Media-Gauche,Media-Gauche,1773757118,5,6.0,exclu,,,
+171,blast_officiel,media,Media-Gauche,Media-Gauche,1773241082,-1,-1.0,outlier,,,
+172,blast_officiel,media,Media-Gauche,Media-Gauche,1776076600,-1,-1.0,outlier,,,
+173,blast_officiel,media,Media-Gauche,Media-Gauche,1775998088,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+174,quotidienofficiel,media,Media-Gauche,Media-Gauche,1772190000,3,,exclu,,,
+175,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771948800,3,,exclu,,,
+176,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771584798,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+177,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771507185,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+178,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771441200,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+179,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771431900,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+180,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771430100,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+181,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771427100,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+182,quotidienofficiel,media,Media-Gauche,Media-Gauche,1771341418,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+183,quotidienofficiel,media,Media-Gauche,Media-Gauche,1774982984,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+184,quotidienofficiel,media,Media-Gauche,Media-Gauche,1774556700,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+185,quotidienofficiel,media,Media-Gauche,Media-Gauche,1774287000,3,,exclu,,,
+186,quotidienofficiel,media,Media-Gauche,Media-Gauche,1773334800,16,17.0,exclu,,,
+187,quotidienofficiel,media,Media-Gauche,Media-Gauche,1776092400,-1,-1.0,outlier,,,
+188,quotidienofficiel,media,Media-Gauche,Media-Gauche,1776070644,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+189,20minutesfrance,media,Media-Centre,Media-Centre,1771959888,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+190,20minutesfrance,media,Media-Centre,Media-Centre,1771945200,-1,-1.0,outlier,,,
+191,20minutesfrance,media,Media-Centre,Media-Centre,1771527600,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+192,20minutesfrance,media,Media-Centre,Media-Centre,1771520201,-1,-1.0,outlier,,,
+193,20minutesfrance,media,Media-Centre,Media-Centre,1771441200,21,22.0,exclu,,,
+194,20minutesfrance,media,Media-Centre,Media-Centre,1771437600,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+195,20minutesfrance,media,Media-Centre,Media-Centre,1771434000,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+196,20minutesfrance,media,Media-Centre,Media-Centre,1771354800,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+197,20minutesfrance,media,Media-Centre,Media-Centre,1771246800,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+198,20minutesfrance,media,Media-Centre,Media-Centre,1773759600,16,17.0,exclu,,,
+199,20minutesfrance,media,Media-Centre,Media-Centre,1773609909,1,1.0,exclu,,,
+200,20minutesfrance,media,Media-Centre,Media-Centre,1776758400,3,,exclu,,,
+201,afpfr,media,Media-Centre,Media-Centre,1771423100,-1,-1.0,outlier,,,
+202,afpfr,media,Media-Centre,Media-Centre,1771352608,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+203,afpfr,media,Media-Centre,Media-Centre,1771333213,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+204,afpfr,media,Media-Centre,Media-Centre,1770826431,-1,-1.0,outlier,,,
+205,afpfr,media,Media-Centre,Media-Centre,1775669405,5,6.0,exclu,,,
+206,afpfr,media,Media-Centre,Media-Centre,1776101413,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+207,c_a_vous,media,Media-Centre,Media-Centre,1773089400,-1,-1.0,outlier,,,
+208,c_a_vous,media,Media-Centre,Media-Centre,1772110800,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+209,c_a_vous,media,Media-Centre,Media-Centre,1771621800,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+210,c_a_vous,media,Media-Centre,Media-Centre,1771526776,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+211,c_a_vous,media,Media-Centre,Media-Centre,1771359782,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+212,c_a_vous,media,Media-Centre,Media-Centre,1771270526,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+213,c_a_vous,media,Media-Centre,Media-Centre,1774623423,5,6.0,exclu,,,
+214,c_a_vous,media,Media-Centre,Media-Centre,1776767090,3,,exclu,,,
+215,c_a_vous,media,Media-Centre,Media-Centre,1776437362,-1,-1.0,outlier,,,
+216,france24,media,Media-Centre,Media-Centre,1771525813,-1,-1.0,outlier,,,
+217,france24,media,Media-Centre,Media-Centre,1771264820,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+218,france.inter,media,Media-Centre,Media-Centre,1772776800,5,6.0,exclu,,,
+219,france.inter,media,Media-Centre,Media-Centre,1772859600,5,6.0,exclu,,,
+220,france.inter,media,Media-Centre,Media-Centre,1772017200,3,,exclu,,,
+221,france.inter,media,Media-Centre,Media-Centre,1771923600,3,,exclu,,,
+222,france.inter,media,Media-Centre,Media-Centre,1771506000,-1,-1.0,outlier,,,
+223,france.inter,media,Media-Centre,Media-Centre,1771452000,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+224,france.inter,media,Media-Centre,Media-Centre,1771414185,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+225,france.inter,media,Media-Centre,Media-Centre,1771362000,-1,-1.0,outlier,,,
+226,france.inter,media,Media-Centre,Media-Centre,1771365600,3,,exclu,,,
+227,france.inter,media,Media-Centre,Media-Centre,1771531200,5,6.0,exclu,,,
+228,france.inter,media,Media-Centre,Media-Centre,1771320600,-1,-1.0,outlier,,,
+229,france.inter,media,Media-Centre,Media-Centre,1771318746,-1,-1.0,outlier,,,
+230,france.inter,media,Media-Centre,Media-Centre,1771265701,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+231,france.inter,media,Media-Centre,Media-Centre,1771260300,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+232,france.inter,media,Media-Centre,Media-Centre,1771272000,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+233,france.inter,media,Media-Centre,Media-Centre,1771234220,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+234,france.inter,media,Media-Centre,Media-Centre,1770973280,18,19.0,exclu,,,
+235,france.inter,media,Media-Centre,Media-Centre,1775376000,3,,exclu,,,
+236,france.inter,media,Media-Centre,Media-Centre,1775332800,5,6.0,exclu,,,
+237,france.inter,media,Media-Centre,Media-Centre,1775068200,3,,exclu,,,
+238,france.inter,media,Media-Centre,Media-Centre,1774814400,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+239,france.inter,media,Media-Centre,Media-Centre,1774645200,3,,exclu,,,
+240,france.inter,media,Media-Centre,Media-Centre,1774515600,-1,-1.0,outlier,,,
+241,france.inter,media,Media-Centre,Media-Centre,1774256406,23,,exclu,,,
+242,france.inter,media,Media-Centre,Media-Centre,1774342800,3,,exclu,,,
+243,france.inter,media,Media-Centre,Media-Centre,1773984600,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+244,france.inter,media,Media-Centre,Media-Centre,1773950400,3,,exclu,,,
+245,france.inter,media,Media-Centre,Media-Centre,1773784800,5,6.0,exclu,,,
+246,france.inter,media,Media-Centre,Media-Centre,1773657000,1,1.0,exclu,,,
+247,france.inter,media,Media-Centre,Media-Centre,1773653028,1,1.0,exclu,,,
+248,france.inter,media,Media-Centre,Media-Centre,1773649065,16,17.0,exclu,,,
+249,france.inter,media,Media-Centre,Media-Centre,1773738000,3,,exclu,,,
+250,france.inter,media,Media-Centre,Media-Centre,1773261000,1,1.0,exclu,,,
+251,france.inter,media,Media-Centre,Media-Centre,1776758400,3,,exclu,,,
+252,france.inter,media,Media-Centre,Media-Centre,1776255678,3,,exclu,,,
+253,france.inter,media,Media-Centre,Media-Centre,1776067200,5,6.0,exclu,,,
+254,france.inter,media,Media-Centre,Media-Centre,1775844000,5,6.0,exclu,,,
+255,france.inter,media,Media-Centre,Media-Centre,1775853000,-1,-1.0,outlier,,,
+256,lcp_an,media,Media-Centre,Media-Centre,1772053200,-1,-1.0,outlier,,,
+257,lcp_an,media,Media-Centre,Media-Centre,1772018066,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+258,lcp_an,media,Media-Centre,Media-Centre,1772002857,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+259,lcp_an,media,Media-Centre,Media-Centre,1771959600,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+260,lcp_an,media,Media-Centre,Media-Centre,1771953352,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+261,lcp_an,media,Media-Centre,Media-Centre,1771929280,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+262,lcp_an,media,Media-Centre,Media-Centre,1771438434,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+263,lcp_an,media,Media-Centre,Media-Centre,1771433472,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+264,lcp_an,media,Media-Centre,Media-Centre,1771400114,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+265,lcp_an,media,Media-Centre,Media-Centre,1771358712,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+266,lcp_an,media,Media-Centre,Media-Centre,1771352660,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+267,lcp_an,media,Media-Centre,Media-Centre,1771348438,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+268,lcp_an,media,Media-Centre,Media-Centre,1771344264,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+269,lcp_an,media,Media-Centre,Media-Centre,1771340250,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+270,lcp_an,media,Media-Centre,Media-Centre,1771322898,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+271,lcp_an,media,Media-Centre,Media-Centre,1771272000,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+272,lcp_an,media,Media-Centre,Media-Centre,1771265380,-1,-1.0,outlier,,,
+273,lcp_an,media,Media-Centre,Media-Centre,1771251441,-1,-1.0,outlier,,,
+274,lcp_an,media,Media-Centre,Media-Centre,1771238764,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+275,lcp_an,media,Media-Centre,Media-Centre,1775581200,3,,exclu,,,
+276,lcp_an,media,Media-Centre,Media-Centre,1775053740,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+277,lcp_an,media,Media-Centre,Media-Centre,1774961922,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+278,lemondefr,media,Media-Centre,Media-Centre,1772043482,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+279,lemondefr,media,Media-Centre,Media-Centre,1771751950,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+280,lemondefr,media,Media-Centre,Media-Centre,1771612331,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+281,lemondefr,media,Media-Centre,Media-Centre,1771439616,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+282,lemondefr,media,Media-Centre,Media-Centre,1771347762,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+283,lemondefr,media,Media-Centre,Media-Centre,1771258795,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+284,lemondefr,media,Media-Centre,Media-Centre,1773649949,1,1.0,exclu,,,
+285,nouvelobs,media,Media-Centre,Media-Centre,1772185400,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+286,nouvelobs,media,Media-Centre,Media-Centre,1772099658,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+287,nouvelobs,media,Media-Centre,Media-Centre,1772038800,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+288,nouvelobs,media,Media-Centre,Media-Centre,1771853842,-1,-1.0,outlier,,,
+289,nouvelobs,media,Media-Centre,Media-Centre,1771581963,-1,-1.0,outlier,,,
+290,nouvelobs,media,Media-Centre,Media-Centre,1771494202,-1,-1.0,outlier,,,
+291,nouvelobs,media,Media-Centre,Media-Centre,1771424690,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+292,nouvelobs,media,Media-Centre,Media-Centre,1775472301,-1,-1.0,outlier,,,
+293,nouvelobs,media,Media-Centre,Media-Centre,1773638700,1,1.0,exclu,,,
+294,nouvelobs,media,Media-Centre,Media-Centre,1773616322,1,1.0,exclu,,,
+295,nouvelobs,media,Media-Centre,Media-Centre,1773245700,1,1.0,exclu,,,
+296,lehuffpostfr,media,Media-Centre,Media-Centre,1771250518,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+297,lehuffpostfr,media,Media-Centre,Media-Centre,1776437023,-1,-1.0,outlier,,,
+298,publicsenat,media,Media-Centre,Media-Centre,1773163916,1,1.0,exclu,,,
+299,publicsenat,media,Media-Centre,Media-Centre,1773064556,1,1.0,exclu,,,
+300,publicsenat,media,Media-Centre,Media-Centre,1772038337,-1,-1.0,outlier,,,
+301,publicsenat,media,Media-Centre,Media-Centre,1772020815,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+302,publicsenat,media,Media-Centre,Media-Centre,1771858786,-1,-1.0,outlier,,,
+303,publicsenat,media,Media-Centre,Media-Centre,1771846221,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+304,publicsenat,media,Media-Centre,Media-Centre,1771499711,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+305,publicsenat,media,Media-Centre,Media-Centre,1771434255,-1,-1.0,outlier,,,
+306,publicsenat,media,Media-Centre,Media-Centre,1771350401,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+307,publicsenat,media,Media-Centre,Media-Centre,1771340413,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+308,publicsenat,media,Media-Centre,Media-Centre,1770735619,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+309,publicsenat,media,Media-Centre,Media-Centre,1775230207,3,,exclu,,,
+310,publicsenat,media,Media-Centre,Media-Centre,1774541873,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+311,publicsenat,media,Media-Centre,Media-Centre,1776270250,-1,-1.0,outlier,,,
+312,publicsenat,media,Media-Centre,Media-Centre,1775813412,3,,exclu,,,
+313,rtl.officiel,media,Media-Centre,Media-Centre,1771835671,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+314,rtl.officiel,media,Media-Centre,Media-Centre,1771767000,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+315,rtl.officiel,media,Media-Centre,Media-Centre,1771615765,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+316,rtl.officiel,media,Media-Centre,Media-Centre,1771611862,-1,-1.0,outlier,,,
+317,rtl.officiel,media,Media-Centre,Media-Centre,1771571638,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+318,rtl.officiel,media,Media-Centre,Media-Centre,1771533000,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+319,rtl.officiel,media,Media-Centre,Media-Centre,1771486965,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+320,rtl.officiel,media,Media-Centre,Media-Centre,1771439088,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+321,rtl.officiel,media,Media-Centre,Media-Centre,1771446600,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+322,rtl.officiel,media,Media-Centre,Media-Centre,1771400040,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+323,rtl.officiel,media,Media-Centre,Media-Centre,1771314005,-1,-1.0,outlier,,,
+324,rtl.officiel,media,Media-Centre,Media-Centre,1771281000,23,,exclu,,,
+325,rtl.officiel,media,Media-Centre,Media-Centre,1771270195,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+326,rtl.officiel,media,Media-Centre,Media-Centre,1771255800,5,6.0,exclu,,,
+327,rtl.officiel,media,Media-Centre,Media-Centre,1771248600,-1,-1.0,outlier,,,
+328,rtl.officiel,media,Media-Centre,Media-Centre,1771230600,-1,-1.0,outlier,,,
+329,rtl.officiel,media,Media-Centre,Media-Centre,1771223784,-1,-1.0,outlier,,,
+330,rtl.officiel,media,Media-Centre,Media-Centre,1771173000,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+331,rtl.officiel,media,Media-Centre,Media-Centre,1774197000,5,6.0,exclu,,,
+332,rtl.officiel,media,Media-Centre,Media-Centre,1773844200,1,1.0,exclu,,,
+333,rtlinfo,media,Media-Centre,Media-Centre,1776867025,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+334,franceinfo,media,Media-Centre,Media-Centre,1772213416,-1,-1.0,outlier,,,
+335,franceinfo,media,Media-Centre,Media-Centre,1771942718,-1,-1.0,outlier,,,
+336,franceinfo,media,Media-Centre,Media-Centre,1771916407,-1,-1.0,outlier,,,
+337,franceinfo,media,Media-Centre,Media-Centre,1771780805,-1,-1.0,outlier,,,
+338,franceinfo,media,Media-Centre,Media-Centre,1771713380,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+339,franceinfo,media,Media-Centre,Media-Centre,1771667934,-1,-1.0,outlier,,,
+340,franceinfo,media,Media-Centre,Media-Centre,1771614015,-1,-1.0,outlier,,,
+341,franceinfo,media,Media-Centre,Media-Centre,1771610411,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+342,franceinfo,media,Media-Centre,Media-Centre,1771599618,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+343,franceinfo,media,Media-Centre,Media-Centre,1771520048,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+344,franceinfo,media,Media-Centre,Media-Centre,1771495215,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+345,franceinfo,media,Media-Centre,Media-Centre,1771441886,-1,-1.0,outlier,,,
+346,franceinfo,media,Media-Centre,Media-Centre,1771424682,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+347,franceinfo,media,Media-Centre,Media-Centre,1771368570,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+348,franceinfo,media,Media-Centre,Media-Centre,1771338721,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+349,franceinfo,media,Media-Centre,Media-Centre,1771281002,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+350,franceinfo,media,Media-Centre,Media-Centre,1771262438,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+351,franceinfo,media,Media-Centre,Media-Centre,1771171218,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+352,franceinfo,media,Media-Centre,Media-Centre,1771066905,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+353,franceinfo,media,Media-Centre,Media-Centre,1773612484,1,1.0,exclu,,,
+354,franceinfo,media,Media-Centre,Media-Centre,1773609970,1,1.0,exclu,,,
+355,franceinfo,media,Media-Centre,Media-Centre,1773442626,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+356,franceinfo,media,Media-Centre,Media-Centre,1776853203,-1,-1.0,outlier,,,
+357,m6info_,media,Media-Centre,Media-Centre,1772792784,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+358,m6info_,media,Media-Centre,Media-Centre,1771780420,-1,-1.0,outlier,,,
+359,m6info_,media,Media-Centre,Media-Centre,1771703401,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+360,m6info_,media,Media-Centre,Media-Centre,1771605000,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+361,m6info_,media,Media-Centre,Media-Centre,1771513200,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+362,m6info_,media,Media-Centre,Media-Centre,1771429996,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+363,m6info_,media,Media-Centre,Media-Centre,1771423347,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+364,m6info_,media,Media-Centre,Media-Centre,1771338459,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+365,m6info_,media,Media-Centre,Media-Centre,1771257120,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+366,m6info_,media,Media-Centre,Media-Centre,1771165800,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+367,m6info_,media,Media-Centre,Media-Centre,1771084558,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+368,m6info_,media,Media-Centre,Media-Centre,1773650592,1,1.0,exclu,,,
+369,m6info_,media,Media-Centre,Media-Centre,1773606205,1,1.0,exclu,,,
+370,m6info_,media,Media-Centre,Media-Centre,1776853800,-1,-1.0,outlier,,,
+371,liberation.fr,media,Media-Gauche,Media-Gauche,1772725501,18,19.0,exclu,,,
+372,liberation.fr,media,Media-Gauche,Media-Gauche,1771873414,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+373,liberation.fr,media,Media-Gauche,Media-Gauche,1771620972,-1,-1.0,outlier,,,
+374,liberation.fr,media,Media-Gauche,Media-Gauche,1771526555,-1,-1.0,outlier,,,
+375,liberation.fr,media,Media-Gauche,Media-Gauche,1771268263,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+376,liberation.fr,media,Media-Gauche,Media-Gauche,1775234457,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+377,liberation.fr,media,Media-Gauche,Media-Gauche,1776447528,-1,-1.0,outlier,,,
+378,bfmtv,media,Media-Droite,Media-Droite,1772795497,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+379,bfmtv,media,Media-Droite,Media-Droite,1772615345,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+380,bfmtv,media,Media-Droite,Media-Droite,1772052319,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+381,bfmtv,media,Media-Droite,Media-Droite,1772050070,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+382,bfmtv,media,Media-Droite,Media-Droite,1772042152,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+383,bfmtv,media,Media-Droite,Media-Droite,1771966263,-1,-1.0,outlier,,,
+384,bfmtv,media,Media-Droite,Media-Droite,1771950531,-1,-1.0,outlier,,,
+385,bfmtv,media,Media-Droite,Media-Droite,1771943903,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+386,bfmtv,media,Media-Droite,Media-Droite,1771874863,-1,-1.0,outlier,,,
+387,bfmtv,media,Media-Droite,Media-Droite,1771767840,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+388,bfmtv,media,Media-Droite,Media-Droite,1771754550,-1,-1.0,outlier,,,
+389,bfmtv,media,Media-Droite,Media-Droite,1771696203,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+390,bfmtv,media,Media-Droite,Media-Droite,1771687985,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+391,bfmtv,media,Media-Droite,Media-Droite,1771575357,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+392,bfmtv,media,Media-Droite,Media-Droite,1771534891,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+393,bfmtv,media,Media-Droite,Media-Droite,1771526486,-1,-1.0,outlier,,,
+394,bfmtv,media,Media-Droite,Media-Droite,1771519041,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+395,bfmtv,media,Media-Droite,Media-Droite,1771518641,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+396,bfmtv,media,Media-Droite,Media-Droite,1771502464,-1,-1.0,outlier,,,
+397,bfmtv,media,Media-Droite,Media-Droite,1771433303,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+398,bfmtv,media,Media-Droite,Media-Droite,1771430002,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+399,bfmtv,media,Media-Droite,Media-Droite,1771427855,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+400,bfmtv,media,Media-Droite,Media-Droite,1771408468,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+401,bfmtv,media,Media-Droite,Media-Droite,1771402711,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+402,bfmtv,media,Media-Droite,Media-Droite,1771361230,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+403,bfmtv,media,Media-Droite,Media-Droite,1771351191,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+404,bfmtv,media,Media-Droite,Media-Droite,1771347743,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+405,bfmtv,media,Media-Droite,Media-Droite,1771344345,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+406,bfmtv,media,Media-Droite,Media-Droite,1771337265,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+407,bfmtv,media,Media-Droite,Media-Droite,1771335689,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+408,bfmtv,media,Media-Droite,Media-Droite,1771321377,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+409,bfmtv,media,Media-Droite,Media-Droite,1771311471,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+410,bfmtv,media,Media-Droite,Media-Droite,1771259126,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+411,bfmtv,media,Media-Droite,Media-Droite,1771249134,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+412,bfmtv,media,Media-Droite,Media-Droite,1771229678,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+413,bfmtv,media,Media-Droite,Media-Droite,1771186880,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+414,bfmtv,media,Media-Droite,Media-Droite,1771144283,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+415,bfmtv,media,Media-Droite,Media-Droite,1771067135,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+416,bfmtv,media,Media-Droite,Media-Droite,1775672984,21,22.0,exclu,,,
+417,bfmtv,media,Media-Droite,Media-Droite,1774595730,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+418,bfmtv,media,Media-Droite,Media-Droite,1773824853,1,1.0,exclu,,,
+419,bfmtv,media,Media-Droite,Media-Droite,1773747976,16,17.0,exclu,,,
+420,bfmtv,media,Media-Droite,Media-Droite,1773674492,1,1.0,exclu,,,
+421,bfmtv,media,Media-Droite,Media-Droite,1773610863,1,1.0,exclu,,,
+422,bfmtv,media,Media-Droite,Media-Droite,1773607832,16,17.0,exclu,,,
+423,bfmtv,media,Media-Droite,Media-Droite,1773603603,1,1.0,exclu,,,
+424,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1772622860,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+425,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1772127063,1,1.0,exclu,,,
+426,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1772040526,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+427,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771953488,23,,exclu,,,
+428,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771835676,-1,-1.0,outlier,,,
+429,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771603922,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+430,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771578433,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+431,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771521394,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+432,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771518652,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+433,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771425046,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+434,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771407761,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+435,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771349030,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+436,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771320926,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+437,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771262420,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+438,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771261639,-1,-1.0,outlier,,,
+439,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1771234866,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+440,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1775120110,3,,exclu,,,
+441,cnews,media,Media-Extreme-Droite,Media-Extreme-Droite,1774289100,1,1.0,exclu,,,
+442,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1772730083,-1,-1.0,outlier,,,
+443,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1772046072,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+444,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1772010145,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+445,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771945099,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+446,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771858856,-1,-1.0,outlier,,,
+447,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771761439,-1,-1.0,outlier,,,
+448,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771527659,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+449,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771434100,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+450,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771410254,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+451,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771319112,-1,-1.0,outlier,,,
+452,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1771261266,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+453,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1775199637,3,,exclu,,,
+454,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1773998261,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+455,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1773687693,1,1.0,exclu,,,
+456,europe1,media,Media-Extreme-Droite,Media-Extreme-Droite,1776952932,3,,exclu,,,
+457,lexpress,media,Media-Droite,Media-Droite,1771434264,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+458,lexpress,media,Media-Droite,Media-Droite,1771344618,-1,-1.0,outlier,,,
+459,lexpress,media,Media-Droite,Media-Droite,1773682221,1,1.0,exclu,,,
+460,le_progres_,media,Media-Régional,Media-Régional,1772988267,18,19.0,exclu,,,
+461,le_progres_,media,Media-Régional,Media-Régional,1772730070,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+462,le_progres_,media,Media-Régional,Media-Régional,1772201400,20,20.0,garder,Cadre interprétatif,La bataille du récit médiatique : emprise des médias Bolloré et critiques de LFI à l'égard des médias,6
+463,le_progres_,media,Media-Régional,Media-Régional,1772001019,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+464,le_progres_,media,Media-Régional,Media-Régional,1771930947,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+465,le_progres_,media,Media-Régional,Media-Régional,1771694160,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+466,le_progres_,media,Media-Régional,Media-Régional,1771687825,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+467,le_progres_,media,Media-Régional,Media-Régional,1771685257,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+468,le_progres_,media,Media-Régional,Media-Régional,1771681965,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+469,le_progres_,media,Media-Régional,Media-Régional,1771676529,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+470,le_progres_,media,Media-Régional,Media-Régional,1771671627,-1,-1.0,outlier,,,
+471,le_progres_,media,Media-Régional,Media-Régional,1771623012,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+472,le_progres_,media,Media-Régional,Media-Régional,1771519394,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+473,le_progres_,media,Media-Régional,Media-Régional,1771434624,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+474,le_progres_,media,Media-Régional,Media-Régional,1771423161,21,22.0,exclu,,,
+475,le_progres_,media,Media-Régional,Media-Régional,1771415517,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+476,le_progres_,media,Media-Régional,Media-Régional,1771365484,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+477,le_progres_,media,Media-Régional,Media-Régional,1771339778,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+478,le_progres_,media,Media-Régional,Media-Régional,1771337727,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+479,le_progres_,media,Media-Régional,Media-Régional,1771259264,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+480,le_progres_,media,Media-Régional,Media-Régional,1771244235,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+481,le_progres_,media,Media-Régional,Media-Régional,1771084326,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+482,le_progres_,media,Media-Régional,Media-Régional,1775061020,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+483,le_progres_,media,Media-Régional,Media-Régional,1774717200,5,6.0,exclu,,,
+484,le_progres_,media,Media-Régional,Media-Régional,1774386022,-1,-1.0,outlier,,,
+485,le_progres_,media,Media-Régional,Media-Régional,1774091296,1,1.0,exclu,,,
+486,le_progres_,media,Media-Régional,Media-Régional,1773934210,16,17.0,exclu,,,
+487,le_progres_,media,Media-Régional,Media-Régional,1773519417,-1,-1.0,outlier,,,
+488,le_progres_,media,Media-Régional,Media-Régional,1773405911,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+489,le_progres_,media,Media-Régional,Media-Régional,1773310515,18,19.0,exclu,,,
+490,le_progres_,media,Media-Régional,Media-Régional,1776431253,21,22.0,exclu,,,
+491,le_progres_,media,Media-Régional,Media-Régional,1776274273,3,,exclu,,,
+492,lefigaro,media,Media-Droite,Media-Droite,1771873200,-1,-1.0,outlier,,,
+493,lefigaro,media,Media-Droite,Media-Droite,1771610419,-1,-1.0,outlier,,,
+494,lefigaro,media,Media-Droite,Media-Droite,1771606827,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+495,lefigaro,media,Media-Droite,Media-Droite,1771583420,-1,-1.0,outlier,,,
+496,lefigaro,media,Media-Droite,Media-Droite,1771525813,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+497,lefigaro,media,Media-Droite,Media-Droite,1771520202,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+498,lefigaro,media,Media-Droite,Media-Droite,1771452603,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+499,lefigaro,media,Media-Droite,Media-Droite,1771438512,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+500,lefigaro,media,Media-Droite,Media-Droite,1771430874,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+501,lefigaro,media,Media-Droite,Media-Droite,1771430717,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+502,lefigaro,media,Media-Droite,Media-Droite,1771429513,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+503,lefigaro,media,Media-Droite,Media-Droite,1771428678,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+504,lefigaro,media,Media-Droite,Media-Droite,1771342215,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+505,lefigaro,media,Media-Droite,Media-Droite,1771261230,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+506,lefigaro,media,Media-Droite,Media-Droite,1771179902,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+507,lefigaro,media,Media-Droite,Media-Droite,1771176160,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+508,lefigaro,media,Media-Droite,Media-Droite,1771163073,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+509,lefigaro,media,Media-Droite,Media-Droite,1771084788,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+510,lefigaro,media,Media-Droite,Media-Droite,1770800464,3,,exclu,,,
+511,lefigaro,media,Media-Droite,Media-Droite,1774548212,3,,exclu,,,
+512,lefigaro,media,Media-Droite,Media-Droite,1774537228,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+513,lefigaro,media,Media-Droite,Media-Droite,1773765009,1,1.0,exclu,,,
+514,lefigaro,media,Media-Droite,Media-Droite,1773748813,16,17.0,exclu,,,
+515,lefigaro,media,Media-Droite,Media-Droite,1773675007,1,1.0,exclu,,,
+516,leparisien,media,Media-Centre,Media-Centre,1773162571,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+517,leparisien,media,Media-Centre,Media-Centre,1772817191,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+518,leparisien,media,Media-Centre,Media-Centre,1771696201,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+519,leparisien,media,Media-Centre,Media-Centre,1771416615,21,22.0,exclu,,,
+520,leparisien,media,Media-Centre,Media-Centre,1771264199,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+521,leparisien,media,Media-Centre,Media-Centre,1771253474,-1,-1.0,outlier,,,
+522,leparisien,media,Media-Centre,Media-Centre,1771243372,-1,-1.0,outlier,,,
+523,leparisien,media,Media-Centre,Media-Centre,1771098795,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+524,leparisien,media,Media-Centre,Media-Centre,1773614448,1,1.0,exclu,,,
+525,leparisien,media,Media-Centre,Media-Centre,1776357799,-1,-1.0,outlier,,,
+526,lesechos.fr,media,Media-Droite,Media-Droite,1773749763,16,17.0,exclu,,,
+527,rmc_off,media,Media-Centre,Media-Centre,1771956000,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+528,rmc_off,media,Media-Centre,Media-Centre,1771935300,-1,-1.0,outlier,,,
+529,rmc_off,media,Media-Centre,Media-Centre,1771582355,-1,-1.0,outlier,,,
+530,rmc_off,media,Media-Centre,Media-Centre,1771434301,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+531,rmc_off,media,Media-Centre,Media-Centre,1771418558,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+532,rmc_off,media,Media-Centre,Media-Centre,1771329568,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+533,rmc_off,media,Media-Centre,Media-Centre,1771323750,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+534,rmc_off,media,Media-Centre,Media-Centre,1771237690,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+535,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1773153623,-1,-1.0,outlier,,,
+536,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1772094224,-1,-1.0,outlier,,,
+537,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1772013816,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+538,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1771839624,3,,exclu,,,
+539,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1771494565,-1,-1.0,outlier,,,
+540,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1771435469,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+541,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1771403418,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+542,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1771325164,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+543,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1771238576,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+544,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1775140000,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+545,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1774345252,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+546,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1773743516,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+547,sudradio,media,Media-Extreme-Droite,Media-Extreme-Droite,1773674510,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+548,tf1info,media,Media-Droite,Media-Droite,1772226000,-1,-1.0,outlier,,,
+549,tf1info,media,Media-Droite,Media-Droite,1772182613,22,21.0,garder,Cadre interprétatif,« Bascule fasciste » et « danger de l'extrême droite » : contre-cadrage de LFI,8
+550,tf1info,media,Media-Droite,Media-Droite,1771880969,-1,-1.0,outlier,,,
+551,tf1info,media,Media-Droite,Media-Droite,1771842080,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+552,tf1info,media,Media-Droite,Media-Droite,1771602230,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+553,tf1info,media,Media-Droite,Media-Droite,1771582862,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+554,tf1info,media,Media-Droite,Media-Droite,1771524000,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+555,tf1info,media,Media-Droite,Media-Droite,1771504690,-1,-1.0,outlier,,,
+556,tf1info,media,Media-Droite,Media-Droite,1771494805,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+557,tf1info,media,Media-Droite,Media-Droite,1771446600,-1,-1.0,outlier,,,
+558,tf1info,media,Media-Droite,Media-Droite,1771432800,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+559,tf1info,media,Media-Droite,Media-Droite,1771429446,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+560,tf1info,media,Media-Droite,Media-Droite,1771423302,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+561,tf1info,media,Media-Droite,Media-Droite,1771355845,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+562,tf1info,media,Media-Droite,Media-Droite,1771340073,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+563,tf1info,media,Media-Droite,Media-Droite,1771257229,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+564,tf1info,media,Media-Droite,Media-Droite,1771256767,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+565,tf1info,media,Media-Droite,Media-Droite,1771243200,-1,-1.0,outlier,,,
+566,tf1info,media,Media-Droite,Media-Droite,1771233039,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+567,tf1info,media,Media-Droite,Media-Droite,1771189496,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+568,tf1info,media,Media-Droite,Media-Droite,1771097331,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+569,tf1info,media,Media-Droite,Media-Droite,1773605761,1,1.0,exclu,,,
+570,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1773169698,18,19.0,exclu,,,
+571,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1771604478,13,9.0,garder,Cadre interprétatif,La violence politique et la radicalisation du débat public imputées tant à LFI qu'à « l'extrême gauche »,5
+572,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1771520415,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+573,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1771263677,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+574,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1771006391,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+575,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1775158973,23,,exclu,,,
+576,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1775064367,3,,exclu,,,
+577,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1775059606,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+578,va.plus,media,Media-Extreme-Droite,Media-Extreme-Droite,1773255974,18,19.0,exclu,,,
+579,laradionova,media,Media-Gauche,Media-Gauche,1772446098,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+580,laradionova,media,Media-Gauche,Media-Gauche,1775417926,3,,exclu,,,
+581,laradionova,media,Media-Gauche,Media-Gauche,1773767464,-1,-1.0,outlier,,,
+582,laradionova,media,Media-Gauche,Media-Gauche,1773681123,1,1.0,exclu,,,
+583,laradionova,media,Media-Gauche,Media-Gauche,1776853874,-1,-1.0,outlier,,,
+584,laradionova,media,Media-Gauche,Media-Gauche,1776249212,3,,exclu,,,
+585,franctireurmag,media,Media-Droite,Media-Droite,1773047613,23,,exclu,,,
+586,franctireurmag,media,Media-Droite,Media-Droite,1774800420,1,1.0,exclu,,,
+587,franctireurmag,media,Media-Droite,Media-Droite,1774346442,23,,exclu,,,
+588,franctireurmag,media,Media-Droite,Media-Droite,1773424313,-1,-1.0,outlier,,,
+589,t18_officiel,media,Media-Centre,Media-Centre,1771931359,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+590,t18_officiel,media,Media-Centre,Media-Centre,1771502400,-1,-1.0,outlier,,,
+591,t18_officiel,media,Media-Centre,Media-Centre,1771491091,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+592,t18_officiel,media,Media-Centre,Media-Centre,1771406817,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+593,loopsider,media,Media-Centre,Media-Centre,1772012914,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+594,brutofficiel,media,Media-Centre,Media-Centre,1771707781,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+595,brutofficiel,media,Media-Centre,Media-Centre,1771510947,-1,-1.0,outlier,,,
+596,brutofficiel,media,Media-Centre,Media-Centre,1771431516,7,4.0,garder,Cadre interprétatif,« L'extrême gauche tue » : responsabilité de l'« ultra-gauche » et complaisance de LFI,3
+597,brutofficiel,media,Media-Centre,Media-Centre,1773952012,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+598,brutofficiel,media,Media-Centre,Media-Centre,1773604096,1,1.0,exclu,,,
+599,brutofficiel,media,Media-Centre,Media-Centre,1773432709,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+600,brutofficiel,media,Media-Centre,Media-Centre,1773255586,21,22.0,exclu,,,
+601,brutofficiel,media,Media-Centre,Media-Centre,1776422723,-1,-1.0,outlier,,,
+602,brutofficiel,media,Media-Centre,Media-Centre,1776276396,3,,exclu,,,
+603,laprovence_,media,Media-Régional,Media-Régional,1772027212,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+604,laprovence_,media,Media-Régional,Media-Régional,1773746368,16,17.0,exclu,,,
+605,laprovence_,media,Media-Régional,Media-Régional,1773609503,16,17.0,exclu,,,
+606,laprovence_,media,Media-Régional,Media-Régional,1773346896,16,17.0,exclu,,,
+607,laprovence_,media,Media-Régional,Media-Régional,1777059765,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+608,ledauphinelibere,media,Media-Régional,Media-Régional,1772731825,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+609,ledauphinelibere,media,Media-Régional,Media-Régional,1771930947,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+610,ledauphinelibere,media,Media-Régional,Media-Régional,1771701399,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+611,ledauphinelibere,media,Media-Régional,Media-Régional,1771687825,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+612,ledauphinelibere,media,Media-Régional,Media-Régional,1771685258,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+613,ledauphinelibere,media,Media-Régional,Media-Régional,1771681965,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+614,ledauphinelibere,media,Media-Régional,Media-Régional,1771676539,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+615,ledauphinelibere,media,Media-Régional,Media-Régional,1771671626,-1,-1.0,outlier,,,
+616,ledauphinelibere,media,Media-Régional,Media-Régional,1771623008,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+617,ledauphinelibere,media,Media-Régional,Media-Régional,1771519395,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+618,ledauphinelibere,media,Media-Régional,Media-Régional,1771477221,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+619,ledauphinelibere,media,Media-Régional,Media-Régional,1771423161,21,22.0,exclu,,,
+620,ledauphinelibere,media,Media-Régional,Media-Régional,1771354999,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+621,ledauphinelibere,media,Media-Régional,Media-Régional,1771354822,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+622,ledauphinelibere,media,Media-Régional,Media-Régional,1771346972,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+623,ledauphinelibere,media,Media-Régional,Media-Régional,1771339676,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+624,ledauphinelibere,media,Media-Régional,Media-Régional,1771337732,12,14.0,garder,Fil factuel,La Jeune Garde : présentation du groupuscule et sa dissolution,14
+625,ledauphinelibere,media,Media-Régional,Media-Régional,1771260124,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+626,ledauphinelibere,media,Media-Régional,Media-Régional,1771250417,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+627,ledauphinelibere,media,Media-Régional,Media-Régional,1771084326,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+628,ledauphinelibere,media,Media-Régional,Media-Régional,1775230673,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+629,ledauphinelibere,media,Media-Régional,Media-Régional,1775144714,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+630,ledauphinelibere,media,Media-Régional,Media-Régional,1774386020,-1,-1.0,outlier,,,
+631,ledauphinelibere,media,Media-Régional,Media-Régional,1774090817,1,1.0,exclu,,,
+632,ledauphinelibere,media,Media-Régional,Media-Régional,1773641891,1,1.0,exclu,,,
+633,ledauphinelibere,media,Media-Régional,Media-Régional,1773412096,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+634,ledauphinelibere,media,Media-Régional,Media-Régional,1773310541,18,19.0,exclu,,,
+635,ledauphinelibere,media,Media-Régional,Media-Régional,1776834911,21,22.0,exclu,,,
+636,ledauphinelibere,media,Media-Régional,Media-Régional,1776430322,21,22.0,exclu,,,
+637,ledauphinelibere,media,Media-Régional,Media-Régional,1776274688,-1,-1.0,outlier,,,
+638,journalsudouest,media,Media-Régional,Media-Régional,1773163225,1,1.0,exclu,,,
+639,journalsudouest,media,Media-Régional,Media-Régional,1771961202,5,6.0,exclu,,,
+640,journalsudouest,media,Media-Régional,Media-Régional,1771426794,-1,-1.0,outlier,,,
+641,journalsudouest,media,Media-Régional,Media-Régional,1775040374,5,6.0,exclu,,,
+642,journalsudouest,media,Media-Régional,Media-Régional,1773684201,1,1.0,exclu,,,
+643,journalsudouest,media,Media-Régional,Media-Régional,1773678241,5,6.0,exclu,,,
+644,ladepechedumidi,media,Media-Régional,Media-Régional,1772038200,10,12.0,garder,Fil factuel,Collectif Némésis : révélations sur le groupuscule et demande de dissolution,13
+645,ladepechedumidi,media,Media-Régional,Media-Régional,1771608600,1,1.0,exclu,,,
+646,ladepechedumidi,media,Media-Régional,Media-Régional,1771430499,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+647,ladepechedumidi,media,Media-Régional,Media-Régional,1770724890,5,6.0,exclu,,,
+648,slatefr,media,Media-Droite,Media-Droite,1776956400,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+649,franceculture,media,Media-Centre,Media-Centre,1771653600,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+650,franceculture,media,Media-Centre,Media-Centre,1771394400,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+651,franceculture,media,Media-Centre,Media-Centre,1773295200,2,3.0,garder,Cadre interprétatif,La revendication antifasciste de la gauche radicale et sa mise en cause par l'extrême droite,1
+652,franceculture,media,Media-Centre,Media-Centre,1776325108,-1,-1.0,outlier,,,
+653,parismatch,media,Media-Droite,Media-Droite,1771689113,5,6.0,exclu,,,
+654,parismatch,media,Media-Droite,Media-Droite,1771688531,5,6.0,exclu,,,
+655,parismatch,media,Media-Droite,Media-Droite,1771686291,5,6.0,exclu,,,
+656,parismatch,media,Media-Droite,Media-Droite,1771685902,5,6.0,exclu,,,
+657,parismatch,media,Media-Droite,Media-Droite,1771257967,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+658,i24news_fr,media,Media-Droite,Media-Droite,1771503061,6,5.0,garder,Fil factuel,"Raphaël Arnault : silence, retour dans le débat public et appels à la démission",12
+659,i24news_fr,media,Media-Droite,Media-Droite,1774810800,5,6.0,exclu,,,
+660,hugodecrypte,media,Media-Centre,Media-Centre,1772201916,-1,-1.0,outlier,,,
+661,hugodecrypte,media,Media-Centre,Media-Centre,1771607380,5,6.0,exclu,,,
+662,hugodecrypte,media,Media-Centre,Media-Centre,1771441975,5,6.0,exclu,,,
+663,hugodecrypte,media,Media-Centre,Media-Centre,1771340978,17,18.0,garder,Fil factuel,Minute de silence à l'Assemblée nationale et refus unanime de la violence,16
+664,hugodecrypte,media,Media-Centre,Media-Centre,1771325873,5,6.0,exclu,,,
+665,hugodecrypte,media,Media-Centre,Media-Centre,1771270854,5,6.0,exclu,,,
+666,hugodecrypte,media,Media-Centre,Media-Centre,1771101692,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+667,hugodecrypte,media,Media-Centre,Media-Centre,1774721763,5,6.0,exclu,,,
+668,hugodecrypte,media,Media-Centre,Media-Centre,1773749100,16,17.0,exclu,,,
+669,konbini,media,Media-Centre,Media-Centre,1771351704,15,16.0,garder,Fil factuel,"Lyon, épicentre historique de l'affrontement extrême droite / antifascistes",15
+670,konbini,media,Media-Centre,Media-Centre,1774391684,3,,exclu,,,
+671,konbini,media,Media-Centre,Media-Centre,1773295307,3,,exclu,,,
+672,konbini,media,Media-Centre,Media-Centre,1776934431,3,,exclu,,,
+673,streetpress_,media,Media-Gauche,Media-Gauche,1772113084,-1,-1.0,outlier,,,
+674,streetpress_,media,Media-Gauche,Media-Gauche,1772121600,-1,-1.0,outlier,,,
+675,streetpress_,media,Media-Gauche,Media-Gauche,1775040232,-1,-1.0,outlier,,,
+676,streetpress_,media,Media-Gauche,Media-Gauche,1774630951,-1,-1.0,outlier,,,
+677,streetpress_,media,Media-Gauche,Media-Gauche,1774377095,24,23.0,garder,Cadre interprétatif,Révélations Mediapart sur le passé néonazi de Quentin Deranque et déconstruction de la figure du martyr,7
+678,streetpress_,media,Media-Gauche,Media-Gauche,1773244800,18,19.0,exclu,,,
+679,streetpress_,media,Media-Gauche,Media-Gauche,1776333600,-1,-1.0,outlier,,,
+680,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1772024689,-1,-1.0,outlier,,,
+681,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771851875,19,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+682,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771707792,14,2.0,garder,Fil factuel,Marche d'hommage à Quentin Deranque et controverse des slogans et symboles nazis,11
+683,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771579026,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+684,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771532699,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+685,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771506271,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+686,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771419832,11,11.0,garder,Cadre interprétatif,L'affrontement Panot–Lecornu à l'Assemblée : instrumentalisation dénoncée et renversement de l'accusation par LFI,4
+687,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771365600,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+688,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771358115,9,13.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+689,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771326228,4,7.0,garder,Cadre interprétatif,Les liens LFI–Jeune Garde et la contre-offensive de Mélenchon,2
+690,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771272278,8,8.0,garder,Fil factuel,Déroulement de l'enquête judiciaire,10
+691,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771239719,-1,-1.0,outlier,,,
+692,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771186589,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+693,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1771185735,0,0.0,garder,Fil factuel,Récit et reconstitution des faits,9
+694,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1774305000,1,1.0,exclu,,,
+695,le20hfrancetelevisions,media,Media-Centre,Media-Centre,1774219755,1,1.0,exclu,,,
+696,tbt9_w9,media,Media-Extreme-Droite,Media-Extreme-Droite,1772056800,-1,-1.0,outlier,,,

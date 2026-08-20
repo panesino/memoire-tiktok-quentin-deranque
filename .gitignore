@@ -1,0 +1,15 @@
+# Identifiants et secrets (ne jamais versionner)
+credentials.py
+**/credentials.py
+
+# Environnements et caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Données brutes et médias non versionnés
+*.mp4
+resultats_collecte_tiktok_*.json

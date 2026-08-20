@@ -1,0 +1,14 @@
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
+umap-learn
+hdbscan
+bertopic
+sentence-transformers
+plotly
+kaleido
+nbformat
+openai
+pyktok
