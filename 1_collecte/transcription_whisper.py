@@ -69,7 +69,7 @@ def estimer_cout(videos: list) -> tuple[int, float]:
 
 def main():
     # Vérification des prérequis
-    os.environ.setdefault("OPENAI_API_KEY", "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")
+    os.environ.setdefault("OPENAI_API_KEY", "") #insérer clé API OpenAI
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         print("ERREUR : La variable d'environnement OPENAI_API_KEY n'est pas définie.")
