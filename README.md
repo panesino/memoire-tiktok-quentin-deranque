@@ -1,4 +1,4 @@
-# Une mort, plusieurs récits — cadrages de l'affaire Quentin Deranque sur TikTok
+# Une mort, plusieurs récit: cadrages de l'affaire Quentin Deranque sur TikTok
 
 Ce dépôt rassemble le code et les données dérivées de mon mémoire de Master (Luca Panese, UNIL), consacré à l'analyse computationnelle de la circulation des cadres en lien avec l'affaire Quentin Deranque entre acteurs politiques et médias sur TikTok.
 
