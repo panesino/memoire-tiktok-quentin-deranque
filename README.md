@@ -6,12 +6,12 @@ Ce dépôt rassemble le code et les données dérivées de mon mémoire de Maste
 
 Le dépôt suit l'ordre du pipeline d'analyse.
 
-- `1_collecte/` — sélection des comptes, collecte via la Research API de TikTok, filtrage thématique, téléchargement et transcription des vidéos.
-- `2_traitement/` — fusion, nettoyage et normalisation du corpus, catégorisation des comptes par orientation.
-- `3_clustering/` — notebook de clustering sémantique (embeddings, UMAP, HDBSCAN, c-TF-IDF) et consolidation en cadrages.
-- `4_figures_statistiques/` — génération des figures et des statistiques descriptives.
-- `data/` — corpus dérivé et fichiers nécessaires à la reproductibilité.
-- `figures/` — figures finales du mémoire.
+- `1_collecte/`: sélection des comptes, collecte via la Research API de TikTok, filtrage thématique, téléchargement et transcription des vidéos.
+- `2_traitement/`: fusion, nettoyage et normalisation du corpus, catégorisation des comptes par orientation.
+- `3_clustering/`: notebook de clustering sémantique (embeddings, UMAP, HDBSCAN, c-TF-IDF) et consolidation en cadrages.
+- `4_figures_statistiques/`: génération des figures et des statistiques descriptives.
+- `data/`: corpus dérivé et fichiers nécessaires à la reproductibilité.
+- `figures/`: figures finales du mémoire.
 
 ## Ordre d'exécution
 
@@ -30,12 +30,12 @@ Le dépôt suit l'ordre du pipeline d'analyse.
 
 Pour des raisons de taille, de respect des conditions d'utilisation de TikTok et de protection des données personnelles, les fichiers vidéos et le résultat brut de la collecte ne sont pas fournis.
 
-- `corpus_cleaned_v1.json` — corpus nettoyé (701 vidéos, texte et métadonnées).
-- `corpus_pret_clustering.csv` — corpus aligné pour le clustering (697 vidéos).
-- `embeddings_Qwen3-8b.npy` — embeddings pré-calculés (697 × 4096).
-- `etape1_affectations_canonique.csv` — affectation figée du document vers son cadrage.
-- `consolidation_decisions.csv` — décisions de la revue qualitative (25 regroupements).
-- `tableau_16_cadrages.csv` — table de présentation des 16 cadrages retenus.
+- `corpus_cleaned_v1.json`: corpus nettoyé (701 vidéos, texte et métadonnées).
+- `corpus_pret_clustering.csv`: corpus aligné pour le clustering (697 vidéos).
+- `embeddings_Qwen3-8b.npy`: embeddings pré-calculés (697 × 4096).
+- `etape1_affectations_canonique.csv`: affectation figée du document vers son cadrage.
+- `consolidation_decisions.csv`: décisions de la revue qualitative (25 regroupements).
+- `tableau_16_cadrages.csv`: table de présentation des 16 cadrages retenus.
 
 ## Reproductibilité
 
@@ -49,4 +49,4 @@ pip install -r requirements.txt
 
 ## Identifiants
 
-Les scripts de collecte requièrent des identifiants de la Research API de TikTok. Il faut donc renseigner vos identifiants dans `credentials.py`. La transcription requiert par ailleurs une clé OpenAI, lue depuis la variable d'environnement `OPENAI_API_KEY`.
+Les scripts de collecte requièrent des identifiants de la Research API de TikTok. Il faut donc renseigner vos identifiants dans `credentials.py`. La transcription requiert par ailleurs une clé OpenAI.
